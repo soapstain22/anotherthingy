@@ -1,7 +1,10 @@
 package com.crimsonwarpedcraft.exampleplugin;
 
 import io.papermc.lib.PaperLib;
+import io.papermc.paper.util.Tick;
+import net.kyori.adventure.util.Ticks;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.util.ChatPaginator;
 
 
 /**
